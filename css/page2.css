@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.login_page {
+    width: 650px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.login_page h3 {
+    padding: 20px 0 25px 80px;
+    font-size: 33px;
+}
+
+.login_page h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.login {
+    float: left;
+    width: 400px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid gray;
+    /* background-image: url(../img/bg.jpg); */
+}
+
+.sign1 {
+    width: 400px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid gray;
+    background-image: url(../img/bg.jpg);
+}
+
+.sign1 label {
+    color: white;
+}
+
+.sign1 input {
+    margin: 10px 0 20px 60px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid white;
+    color: white;
+    background-color: transparent;
+}
+
+.sign1 h2 {
+    color: white;
+}
+
+.label {
+    padding-left: 165px;
+    padding-top: 20px;
+    color: gray;
+}
+
+.input {
+    margin: 10px 0 20px 60px;
+    width: 70%;
+    border: none;
+    border-bottom: 2px solid gray;
+    outline: none;
+}
+
+.a {
+    text-decoration: none;
+    color: gray;
+    margin-left: 135px;
+}
+
+.btn {
+    width: 70%;
+    background-color: burlywood;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 20px;
+    margin: 20px 0 0 56px;
+    color: black;
+}
+
+.fb {
+    width: 70%;
+    color: steelblue;
+    height: 40px;
+    width: 70%;
+    border: 2px solid gray;
+    border-radius: 20px;
+    margin: 20px 0 0 56px;
+}
+
+.fb a {
+    text-decoration: none;
+    color: steelblue;
+}
+
+.sign_up {
+    background-image: url(../img/bg.jpg);
+    background-position: center;
+    width: 200px;
+    height: 377px;
+    margin-top: 20px;
+    float: left;
+    color: white;
+}
+
+.sign_up h4 {
+    padding: 30px 0 0 50px;
+    font-size: 25px;
+}
+
+.sign_up p {
+    margin: 10px;
+}
+
+.btn a {
+    color: black;
+    text-decoration: none
+}
+
+.btn1 {
+    margin: 145px 0 0 71px;
+    width: 80px;
+    height: 33px;
+    color: black;
+    background-color: burlywood;
+    border: 2px solid white;
+    border-radius: 16px;
+}
+
+.btn1 a {
+    color: black;
+    text-decoration: none;
+}
+
+.back {
+    width: 70%;
+    background-color: burlywood;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+    border-radius: 20px;
+    margin: 20px 0 0 56px;
+    color: black;
+}
+
+.back a {
+    color: black;
+    text-decoration: none;
+}
